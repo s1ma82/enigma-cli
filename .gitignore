@@ -1,0 +1,5 @@
+config.yaml
+package-lock.json
+test.js
+*.code-workspace
+node_modules
